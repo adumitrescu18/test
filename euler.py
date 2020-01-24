@@ -1,4 +1,3 @@
-
 import time
 def isPrime(n):
 	boolean = True
