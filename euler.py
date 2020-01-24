@@ -1,4 +1,4 @@
-import time
+ import time
 def isPrime(n):
 	boolean = True
 	for i in range(2, int(n**0.5)+1):
